@@ -1,4 +1,4 @@
-# vue-class
+# vue-firebase
 
 ## Vue2, Class based, Typescript, PWA, Router, Store and SCSS support
 
